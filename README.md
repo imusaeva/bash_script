@@ -4,7 +4,7 @@
 
 This is a repository for my simple bash scripting learning with AkumoSolutions
 
-What is in a bash script?
+## What is in a bash script?
 
 A bash script is a series of commands written in a file. These are read and executed by the bash program. The program executes line by line. For example, you can navigate to a certain path, create a folder and spawn a process inside it using the command line.
 
