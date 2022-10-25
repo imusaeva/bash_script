@@ -1,7 +1,6 @@
 # bash_script
-![maxresdefault](https://user-images.githubusercontent.com/85028974/197692542-6a7b1720-8895-4bd6-be90-ebf6a065c59d.jpg)
 
-
+![1_f7uGDZbiOloyZSM8C5bNMQ](https://user-images.githubusercontent.com/85028974/197693087-a22ca1bc-7088-4aa3-a7bf-525cae9e0c6d.png)
 
 This is a repository for my simple bash scripting learning with AkumoSolutions
 
